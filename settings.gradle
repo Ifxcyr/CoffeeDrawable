@@ -1,0 +1,2 @@
+include ':coffeedrawable'
+rootProject.name='CoffeeDrawable'
